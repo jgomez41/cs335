@@ -1,15 +1,11 @@
 //Job Gomez
 //CS335
 //hw1
-
 //cs335 Spring 2015 Lab-1
 //This program demonstrates the use of OpenGL and XWindows
-//
 //Assignment is to modify this program.
 //You will follow along with your instructor.
-//
 //Elements to be learned in this lab...
-//
 //. general animation framework
 //. animation loop
 //. object definition and movement
